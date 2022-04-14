@@ -4,7 +4,7 @@ This repository contains MASC Online navigation scheme, with support of a high f
 
 This picture blow is MASC Online Path Planning Framework.
 <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/MASC Autopilot.png" alt="drawing" width="400"/>
+    <img src="/MASC(Online Navigation Module)/graph/MASC Autopilot.png" alt="drawing" width="800"/>
 </p>
 
 
@@ -38,11 +38,11 @@ This picture blow is MASC Online Path Planning Framework.
    IP adddress for subscriber and publisher. Likewise  IP address configuration box in X-Plane.
    
    <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/Publisher_Config.png" alt="drawing" width="400"/>
+    <img src="/MASC(Online Navigation Module)/graph/Publisher_Config.png" alt="drawing" width="200"/>
    </p>
    
    <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/Subscriber_Config.png" alt="drawing" width="400"/>
+    <img src="/MASC(Online Navigation Module)/graph/Subscriber_Config.png" alt="drawing" width="200"/>
    </p>
 
 
@@ -62,9 +62,9 @@ This picture blow is MASC Online Path Planning Framework.
    corner of the X-Plane window. 
    
 
-## Cite *LeGO-LOAM*
+## Cite *MASC*
 
-Thank you for citing [our *LeGO-LOAM* paper](./AIAA_SciTech_2023___Automatic_Emergency_Landing.pdf) if you use any of this code: 
+Thank you for citing [our *MASC* paper](./AIAA_SciTech_2023___Automatic_Emergency_Landing.pdf) if you use any of this code: 
 ```
 @inproceedings{legoloam2018,
   title={LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain},
