@@ -8,10 +8,6 @@ This picture blow is MASC Online Path Planning Framework.
 </p>
 
 
-## Lidar-inertial Odometry
-
-An updated lidar-initial odometry package, [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), has been open-sourced and available for testing.
-
 ## Dependency
 
 - [MATALB R2021a](https://www.mathworks.com/products/new_products/previous_release_overview.html)
