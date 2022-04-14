@@ -17,13 +17,13 @@ This picture blow is MASC Online Path Planning Framework.
 
 
 
-## How to set up in X-Plane
+## Set up input data channel and output data channel in X-Plane
 
    <p align='center'>
     <img src="/MASC(Online Navigation Module)/graph/IO_configure.png" alt="drawing" width="300"/>
    </p>
 
-## How to set up in MATLAB/Simulink
+## Configure IP address in MATLAB/Simulink
 
 - The fixedWingPathFollowing model integrates the nonlinear guidane logic , UDP intterface
   with the high fidelity simulation environment. This model is to extract necessary information
@@ -46,7 +46,7 @@ This picture blow is MASC Online Path Planning Framework.
    </p>
 
 
-## How to run the online path planning module
+## Run the online path planning module
    
 1.  Open the program and then first to put airplane to wherever the engine is broken, in which define the 
    engine-out latitude,longitude and altitude. And then click the stop button at the up right corner of 
