@@ -54,7 +54,11 @@ This picture blow is MASC Online Path Planning Framework.
    
 2.  Set up the engine out global position in X-Plane in malfunction position configuretion block
 3.  Set up the airport coordinates in simulink framework
-4.  Click the run button to start the simulink model first. And then click the start button in the up right
+4.  Click the run button to start the simulink model first.   
+   ```
+  sim("fixedWingPathFollowing");
+   ``` 
+6.  And then click the start button in the up right
    corner of the X-Plane window. 
    
 
