@@ -4,23 +4,23 @@ This repository contains MASC Online navigation scheme, with support of a high f
 
 This picture blow is MASC Online Path Planning Framework.
 <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/MASC Autopilot.png" alt="drawing" width="800"/>
+    <img src="/MASC(Online Navigation Module)/graph/MASC Autopilot.png" alt="drawing" width="700"/>
 </p>
 
 
 ## Dependency
 
 - [MATALB R2021a](https://www.mathworks.com/products/new_products/previous_release_overview.html)
-- [DSP System Toolbox]
-- [UAV Toolbox]
-- [Aerospace Blockset]
+- [DSP System Toolbox](https://www.mathworks.com/products/dsp-system.html)
+- [UAV Toolbox](https://www.mathworks.com/products/uav.html)
+- [Aerospace Blockset](https://www.mathworks.com/products/aerospace-blockset.html)
 
 
 
 ## How to set up in X-Plane
 
    <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/IO_configure.png" alt="drawing" width="400"/>
+    <img src="/MASC(Online Navigation Module)/graph/IO_configure.png" alt="drawing" width="300"/>
    </p>
 
 ## How to set up in MATLAB/Simulink
