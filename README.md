@@ -56,7 +56,7 @@ This picture blow is MASC Online Path Planning Framework.
 3.  Set up the airport coordinates in simulink framework
 4.  Click the run button to start the simulink model first.   
    ```
-  sim("fixedWingPathFollowing");
+   sim("fixedWingPathFollowing");
    ``` 
 6.  And then click the start button in the up right
    corner of the X-Plane window. 
