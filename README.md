@@ -4,7 +4,7 @@ This repository contains MASC Online navigation scheme, with support of Non line
 
 This picture below is MASC Online Path Planning Architecture.
 <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/MASC Autopilot.png" alt="drawing" width="700"/>
+    <img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/MASC Autopilot.png" alt="drawing" width="700"/>
 </p>
 
 
@@ -30,7 +30,7 @@ This picture below is MASC Online Path Planning Architecture.
 #### Set up input data channel and output data channel in X-Plane
 
    <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/IO_configure.png" alt="drawing" width="300"/>
+    <img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/IO_configure.png" alt="drawing" width="300"/>
    </p>
 
 #### Configure IP address in MATLAB/Simulink
@@ -48,12 +48,9 @@ This picture below is MASC Online Path Planning Architecture.
    IP adddress for subscriber and publisher. Likewise  IP address configuration box in X-Plane.
    
    <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/Publisher_Config.png" alt="drawing" width="200"/>
+    <img src="/TuningWaypointFollowerForFixedWingUAVExample/graph/UDP Configuration.png" alt="drawing" width="400"/>
    </p>
    
-   <p align='center'>
-    <img src="/MASC(Online Navigation Module)/graph/Subscriber_Config.png" alt="drawing" width="200"/>
-   </p>
 
 
     
@@ -62,7 +59,7 @@ This picture below is MASC Online Path Planning Architecture.
 1.  Open the program in which define the engine-out latitude,longitude and altitude. and then first 
     to put airplane to wherever the engine is broken. And then click the stop button at the up right 
     corner of the X-Plane window. 
-   - [Client matlab program](https://github.com/haotiangu/XPlaneConnect.git)
+    [Client matlab program](https://github.com/haotiangu/XPlaneConnect.git)
 2.  Set up the engine out global position in malfunction position configuretion block
 3.  Set up the airport coordinates in simulink framework
 4.  Click the run button to start the simulink model first.   
