@@ -2,7 +2,7 @@
 
 This repository contains MASC Online navigation scheme, with support of Non linear guidance logic, a high fidelity simulation environment(X-Plane), and User Datagram Protocol (UDP) based interface. The system takes in landing zone coordinates and position coordinates where engine is malfunction. It later navigates the engine-out airplane to the approachable safty landing position in real-time. A demonstration of the system can be found here -> https://www.youtube.com/watch?v=2c1hPMZSF4I
 
-This picture below is MASC Online Path Planning Framework.
+This picture below is MASC Online Path Planning Architecture.
 <p align='center'>
     <img src="/MASC(Online Navigation Module)/graph/MASC Autopilot.png" alt="drawing" width="700"/>
 </p>
