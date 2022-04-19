@@ -58,9 +58,9 @@ This picture below is MASC Online Path Planning Framework.
 
 
     
-## Run the online path planning module
+## Running MASC Examples
    
-1.  Open the programin in which define the engine-out latitude,longitude and altitude. and then first 
+1.  Open the program in which define the engine-out latitude,longitude and altitude. and then first 
     to put airplane to wherever the engine is broken. And then click the stop button at the up right 
     corner of the X-Plane window. 
    - [Client matlab program](https://github.com/haotiangu/XPlaneConnect.git)
