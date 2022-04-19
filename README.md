@@ -61,8 +61,11 @@ This picture blow is MASC Online Path Planning Framework.
    sim("fixedWingPathFollowing");
    ``` 
 6.  And then click the start button in the up right
-   corner of the X-Plane window. 
-   
+   corner of the X-Plane window. Or run command in the matlab terminal.
+ 
+   ```
+   close_system("fixedWingPathFollowing");
+   ``` 
 
 ## Cite *MASC*
 
