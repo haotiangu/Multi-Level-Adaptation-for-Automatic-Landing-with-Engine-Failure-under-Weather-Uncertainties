@@ -10,7 +10,6 @@ This picture below is MASC Online Path Planning Architecture.
 
 ## Features
 
-
 - Nonlinear Guidance Logic
 - High fidelity simulation environment(X-Plane)
 - User Datagram Protocol (UDP) based Publisher and Subscriber
@@ -28,13 +27,13 @@ This picture below is MASC Online Path Planning Architecture.
 ## Installation
 
 
-### Set up input data channel and output data channel in X-Plane
+#### Set up input data channel and output data channel in X-Plane
 
    <p align='center'>
     <img src="/MASC(Online Navigation Module)/graph/IO_configure.png" alt="drawing" width="300"/>
    </p>
 
-### Configure IP address in MATLAB/Simulink
+#### Configure IP address in MATLAB/Simulink
 
 - The fixedWingPathFollowing model integrates the nonlinear guidane logic , UDP intterface
   with the high fidelity simulation environment. This model is to extract necessary information
@@ -77,6 +76,17 @@ This picture below is MASC Online Path Planning Architecture.
    close_system("fixedWingPathFollowing");
    ``` 
 
+## Step Response Test
+
+- Step response for high fidelity autopilot
+   ```
+    open_system('stepResponse');
+   ```
+
+- Step response for low fidelity autopilot
+   ```
+    open_system('uavStepResponse');
+   ```
 ## Cite *MASC*
 
 Thank you for citing [our *MASC* paper](./AIAA_SciTech_2023___Automatic_Emergency_Landing.pdf) if you use any of this code: 
