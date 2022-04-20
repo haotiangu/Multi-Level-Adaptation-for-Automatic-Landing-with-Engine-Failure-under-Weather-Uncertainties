@@ -11,10 +11,11 @@ This picture below is MASC Online Path Planning Architecture.
 ## Features
 
 - Nonlinear Guidance Logic
+- Precise trajectory tracking
 - High fidelity simulation environment(X-Plane)
 - User Datagram Protocol (UDP) based Publisher and Subscriber
 - Decoupled longitudinal and lateral motion control
-- Light weighted online path planning framework(Low computation demanded)
+- Light weight online path planning framework(Low computation demanded)
 
 ## Dependencies
 
