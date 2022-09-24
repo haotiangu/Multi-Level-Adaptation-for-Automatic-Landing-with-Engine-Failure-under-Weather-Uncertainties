@@ -87,16 +87,16 @@ This picture below is MASC Online Path Planning Architecture.
    ```
 ## Cite *MASC*
 
-Thank you for citing [our *MASC* paper](./AIAA_SciTech_2023___Automatic_Emergency_Landing.pdf) if you use any of this code: 
+Thank you for citing [our *MASC* paper](./Multi-level Adaptation for Automatic Landing with Engine
+Failure under Turbulent Weather.pdf) if you use any of this code: 
 ```
-@inproceedings{legoloam2018,
-  title={LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain},
-  author={Shan, Tixiao and Englot, Brendan},
-  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={4758-4765},
-  year={2018},
-  organization={IEEE}
+@article{gu2022multi,
+  title={Multi-level Adaptation for Automatic Landing with Engine Failure under Turbulent Weather},
+  author={Gu, Haotian and Jafarnejadsani, Hamidreza},
+  journal={arXiv preprint arXiv:2209.04132},
+  year={2022}
 }
+
 ```
 
 ## Simulation under the windy weather and Turbulence
